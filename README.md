@@ -50,35 +50,112 @@
 
 <h2 align="center">🛠 Languages and Tools 🛠</h2>
 
+<!-- Row 1 -->
 <p align="center">
-  <!-- Row 1 -->
-  <img src="https://skillicons.dev/icons?i=js,ts" />
+  <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=js" height="48" />
+    <br /><sub><b>JavaScript</b></sub>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=ts" height="48" />
+    <br /><sub><b>TypeScript</b></sub>
+  </a>
 </p>
 
+<!-- Row 2 -->
 <p align="center">
-  <!-- Row 2 -->
-  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite,next" />
+  <a href="https://react.dev/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=react" height="48" />
+    <br /><sub><b>React</b></sub>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/docs/Web/HTML" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=html" height="48" />
+    <br /><sub><b>HTML5</b></sub>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/docs/Web/CSS" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=css" height="48" />
+    <br /><sub><b>CSS3</b></sub>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=tailwind" height="48" />
+    <br /><sub><b>Tailwind</b></sub>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=vite" height="48" />
+    <br /><sub><b>Vite</b></sub>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=next" height="48" />
+    <br /><sub><b>Next.js</b></sub>
+  </a>
 </p>
 
+<!-- Row 3 -->
 <p align="center">
-  <!-- Row 3 -->
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express" />
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=nodejs" height="48" />
+    <br /><sub><b>Node.js</b></sub>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=nestjs" height="48" />
+    <br /><sub><b>NestJS</b></sub>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=express" height="48" />
+    <br /><sub><b>Express</b></sub>
+  </a>
 </p>
 
+<!-- Row 4 -->
 <p align="center">
-  <!-- Row 4 -->
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb" />
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=postgres" height="48" />
+    <br /><sub><b>PostgreSQL</b></sub>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=mongodb" height="48" />
+    <br /><sub><b>MongoDB</b></sub>
+  </a>
 </p>
 
+<!-- Row 5 -->
 <p align="center">
-  <!-- Row 5 -->
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=git" height="48" />
+    <br /><sub><b>Git</b></sub>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=github" height="48" />
+    <br /><sub><b>GitHub</b></sub>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=vscode" height="48" />
+    <br /><sub><b>VS Code</b></sub>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=postman" height="48" />
+    <br /><sub><b>Postman</b></sub>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://swagger.io/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=000000" height="48" />
+    <br /><sub><b>Swagger</b></sub>
+  </a>
 </p>
 
-<p align="center">
-  <!-- Swagger no siempre está en skillicons; si no te aparece, déjalo con badge abajo -->
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=000000" />
-</p>
+---
 
 ---
 
