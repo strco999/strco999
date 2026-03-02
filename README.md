@@ -33,7 +33,7 @@
 
 ---
 
-## 🧩 Tech Stack (Badges)
+## 🧩 Tech Stack 
 <p>
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/App%20Router-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="App Router" />
