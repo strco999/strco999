@@ -48,6 +48,42 @@
 
 ---
 
+<h2 align="center">🛠 Languages and Tools 🛠</h2>
+
+<p align="center">
+  <!-- Row 1 -->
+  <img src="https://skillicons.dev/icons?i=js,ts" />
+</p>
+
+<p align="center">
+  <!-- Row 2 -->
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite,next" />
+</p>
+
+<p align="center">
+  <!-- Row 3 -->
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express" />
+</p>
+
+<p align="center">
+  <!-- Row 4 -->
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb" />
+</p>
+
+<p align="center">
+  <!-- Row 5 -->
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
+
+<p align="center">
+  <!-- Swagger no siempre está en skillicons; si no te aparece, déjalo con badge abajo -->
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=000000" />
+</p>
+
+---
+
+---
+
 ## 🔥 Proyecto destacado: RetroGarage™
 🎮 Marketplace vintage/retro con experiencia completa de compra y administración.
 
